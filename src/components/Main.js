@@ -19,7 +19,7 @@ const Main = () => {
             Time Capsule lets you write letters to your future self, add personal photos or videos,
             and receive them on a date of your choice.
           </p>
-          <button className="get-started-btn" onClick={handleGetStarted}>Get Started</button>
+          <button className="get-started-btn" onClick={handleGetStarted}>Begin Your Journey</button>
         </div>
       </section>
 
