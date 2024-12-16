@@ -1,0 +1,24 @@
+.header {
+    background: linear-gradient(135deg, #e0f7fa, #f8bbd0);
+    padding: 10px; /* Adjust this value */
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* This aligns items vertically */
+    position: relative; /* Optional, if you need specific positioning */
+}
+
+.header h1 {
+    color: #333;
+    margin: 0; /* Remove default margin */
+}
+
+.header nav {
+    margin-left: auto; /* Pushes the nav to the right */
+}
+
+.header nav a {
+    margin: 0 20px; /* Adjust spacing between links */
+    text-decoration: none;
+    color: #555;
+    font-weight: bold;
+}

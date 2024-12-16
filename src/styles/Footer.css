@@ -1,0 +1,17 @@
+.footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.footer .social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ff9800; /* Icon color */
+    font-size: 20px; /* Adjust icon size */
+}
+
+.footer .social-icons a:hover {
+    color: #fff; /* Change icon color on hover */
+}
